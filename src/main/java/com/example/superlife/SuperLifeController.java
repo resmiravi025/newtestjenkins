@@ -8,6 +8,6 @@ public class SuperLifeController {
 
     @GetMapping("/mylife")
     public String getSuperLife(){
-        return "Wonderful life";
+        return "My wonderful life";
     }
 }
